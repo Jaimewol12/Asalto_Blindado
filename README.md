@@ -1,5 +1,3 @@
-# Asalto_Blindado
-
 # Español
 
 Projecto iniciado el 22 de Agosto del 2021 (Probablemente, no encontré fecha anterior). Terminado el 20 de Enero de 2022.
