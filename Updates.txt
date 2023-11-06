@@ -1,0 +1,58 @@
+--------------------- Version 1.2.0 - September 30, 2023 -----------------------
+
+- The game has been 99% translated into english. Except for the images with letters.
+- Fixed spelling mistakes and a bug that would freeze the game after the enemy (on extreme difficulty) launches their final attack.
+- The final attack on extreme difficulty has been modified. Now it's longer but also easier.
+
+--------------------- Versión 1.1.1 - June 20, 2022 -----------------------
+
+- The official video of the game has finally been published (I don't know why I didn't finish it before).
+- Every letter has been changed to "Arial" font, which was the original font.
+
+--------------------- Versión 1.1.0 - January 27, 2022 -----------------------
+
+Light Tank Destroyer:
+	- Piercing shot now has 2 extra damage (I forgot, sorry).
+
+Mysterious Tank:
+	- The critical chance upgrade decreased from 33% to 25%.
+	- Mysterious Tank's extra damage in Basic Attack increased from 4 to 6.
+
+Basic Attack: 
+	- +1 to the maximum damage it can deal. Example: It was (1 to 3 damage) before, now
+	it is (1 to 4 damage).
+	- +10% base Critical hit chance.
+	- The upgrades of Basic Attack (Critical chance) now stack.
+	- In the second upgrade of Basic Attack, now it increases 25% instead of 33%.
+
+Tactical Bombing:
+	- The duration of Tactical Bombing increased from 10 seconds to 11 seconds.
+
+Piercing shot:
+	- If you have Focus enabled, piercing the enemy's armor is guaranteed to remove 4 armor points, instead of 3 or 4 armor points.
+	- If you have Focus enabled, the bar will progress slightly slower. (It will take 6 seconds instead of 5).
+
+Explosive shot:
+	- Each time this attack is used, the chance of failing increases by 1%.
+	- Each time your tank is repaired, the chance of failing decreases by 1%.
+	- Each time this attack explodes in your face, the chance of failing decreases by 4%.
+
+Extreme difficulty:
+	- The enemy's armor points on extreme difficulty decreased from 30 to 29.
+
+Arrows Attack V2:
+	- The minimum damage it can deal decreases by 2 and the maximum damage decreases by 1.
+	Example: Before it was (2 to 4 damage), now it is (0 to 3 damage)
+	- In the first pattern of hard difficulty, 1 arrow was deleted, and another was changed. (Now it's a bit easier).
+	- Fixed a bug where the number of pattern of extreme difficulty was the same number of pattern of hard difficulty. (I have no idea what this was supposed to mean).
+
+
+--------------------- Version 1.0.1 - January, 25 2022 -----------------------
+
+Piercing shot:
+	- Bar sound changed from 0.43 to 0.32. (I basically turned down the volume by about 26%).
+
+
+--------------------- Version 1.0.0 - January 20, 2022 -----------------------
+
+- The game was officially released.

@@ -1,0 +1,12 @@
+Puntos: 0
+Mejora_Vida: 0
+Mejora_Ataque: 0
+Mejora_Blindaje: 0
+Mejora_Basico: 0
+Mejora_Explosivo: 0
+Mejora_Bombardeo: 0
+Tanque_DL: False
+Tanque_M: False
+Tanque_X: False
+Puntos_de_Victoria: 0
+Idioma: español

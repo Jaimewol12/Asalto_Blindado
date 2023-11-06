@@ -1,0 +1,56 @@
+--------------------- Versión 1.2.0 - 30 de Septiembre 2023 -----------------------
+
+- El juego ha sido traducido 99% al inglés. Excepto por las imágenes con letras.
+- Se arreglaron fallos de ortografía y un bug que congelaba el juego luego de que el enemigo en dificultad extrema lance su ataque final.
+- El ataque final de la dificultad extrema ha sido modificado, ahora es más largo pero también más fácil.
+
+--------------------- Versión 1.1.1 - 20 de Junio 2022 -----------------------
+
+- El video oficial del juego finalmente se ha publicado (no sé porqué lo dejé tanto tiempo sin terminar).
+- Todas las letras han sido cambiadas a "Arial", que era la letra original.
+
+--------------------- Versión 1.1.0 - 27 de Enero 2022 -----------------------
+
+Destructor de Tanques Ligero:
+	- Disparo perforador ahora tiene 2 de daño extra. (Se me había olvidado).
+
+Tanque Misterioso:
+	- El aumento de probabilidad de crítico disminuyó de 33% a 25%.
+	- El daño extra de Tanque Misterioso en Ataque Básico aumentó de 4 a 6.
+
+Disparo básico: 
+	- +1 al rango de daño máximo que puede causar. Ejemplo: antes era (1 a 3 de daño), ahora es (1 a 4 de daño).
+	- +10% de probabilidad base de crítico.
+	- Las mejoras del disparo básico (Probabilidad de crítico) ahora se acumulan.
+	- En la segunda mejora del disparo básico, ahora aumenta 25% en vez de 33%.
+
+Bombardeo Áereo:
+	- La duración de Bombardeo Áereo aumentó de 10 seg. a 11 segundos.
+
+Disparo Perforador:
+	- Si tiene enfoque activado, al perforar el blindaje enemigo, se garantiza quitarle 4 de blindaje. Y no 3 o 4 de blindaje.
+	- Si tiene enfoque activado, la barra avanzará ligeramente más lenta. (Tardará 6 segundos en vez de 5).
+
+Disparo Explosivo:
+	- Cada vez que sea usado este ataque, la probabilidad de fallar aumenta un 1%.
+	- Cada vez que tu tanque sea reparado, la probabilidad de fallar disminuye un 1%.
+	- Cada vez que este ataque te explote en la cara, la probabilidad de fallar disminuye un 4%.
+
+Dificultad Extrema:
+	- El blindaje enemigo en dificultad extrema disminuyó de 30 a 29.
+
+Disparo flechas V2:
+	- El rango de daño mínimo que puede causar disminuyó en 2, y el daño máximo en 1. Ejemplo: antes era (2 a 4 de daño), ahora es (0 a 3 de daño).
+	- En el primer patrón de dificultad difícil, se eliminó 1 flecha, y se cambió otra. (Para ser más fácil).
+	- Se corrigió un bug de que el N° de patrón de dificultad extrema era el mismo N° de patrón de dificultad díficil.
+
+
+--------------------- Versión 1.0.1 - 25 de Enero 2022 -----------------------
+
+Disparo perforador:
+	- El sonido de la barra cambió de 0.43 a 0.32. (Básicamente la baje el volumen como un 26%).
+
+
+--------------------- Versión 1.0.0 - 20 de Enero 2022 -----------------------
+
+- El juego fue oficialmente lanzado.

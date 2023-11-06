@@ -1,0 +1,23 @@
+# CREDITOS EXTENDIDOS
+
+Vicente, gracias por probar completar mi jueguito como beta tester y jugarlo cada vez que te lo pedía... aunque no sé porque escribo esto si literalmente estás al lado mío xd.
+
+Martín, gracias por hacerle un ejecutable a mi anterior jueguito y por ser parte de mi motivación para este jueguito. Si preguntas porque pesa 40 megas... ni la menor idea. Pero he visto en internet gente a la cual le pesa más de 100 megas por lo que creo que es aceptable.
+
+Iván, gracias por decirme que probaste mi jueguito de Viernes Noche Funky, aunque tardarás en darte cuenta que tenías que apretar 'Enter' xd. Me alegró bastante.
+
+Jean, gracias por... hacerme crear el jueguito de Viernes Noche Funky xd. Fue divertido hacerlo en un día. Aunque en todo lo que aprendi al hacer el juego, jamás averigué como usar las teclas del teclado. 
+
+Alejandro, gracias por tomarte el tiempo para instalar Python y Sublime Text, y probar mi anterior jueguito. No sé si aun lo tienes, pero da igual, la razón por la que esto pesa tanto es porque viene con el python y pygame incluido. (Hubiera sido divertido haberte pedido componer algún sonido o música)
+
+Alonso, gracias por descargar mi jueguito, y ser el primero que le envío (Después del Vicente claro). No creo que esto tenga virus a diferencia del god of war xd (Espero).
+
+Nicolás, muchas gracias por jugar mi juego por tanto tiempo. De verdad me alegró mucho que te gustara mi juego y casi lo completaras. Me diste motivatición para la actualización "1.1.0".
+
+Gracias igual a todos los demás del discord.
+
+Y gracias okxd por la motivación. La actualización "1.2.0" (Traducción al inglés) fue principalmente gracias a ti. Y también gracias a ti por fin podré subir esto a GitHub. Ni idea si leerás este mensaje, pero te lo agradezco mucho, además que por fin pude jugar un FNAF xd.
+
+Con estoy doy finalizado el curso gratis de Python, que tecnicamente termine hace tiempo pero no quería aceptar eso hasta terminar este juego.
+
+Gracias por leer.

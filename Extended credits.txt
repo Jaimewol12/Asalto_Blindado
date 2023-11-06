@@ -1,0 +1,23 @@
+# Extended credits
+
+Vicente, thank you for testing and finishing my game as a beta tester and also play it every time I asked you to... although I have no idea why I am writing this if you are literally next to me xd.
+
+Martín, thank you for converting my last game into an executable and for being part of my motivation to this game. If you ask why this game weighs 40 mb... I don't know. But I've seen people on the internet who have files that weigh more than 100 megabytes, so I think it's acceptable.
+
+Iván, thank you for telling me that you tried my game Viernes Noche Funky, despite the fact that you didn't realize that you had to press 'Enter' xd. It was quite happy.
+
+Jean, thank you for... making me create the game Viernes Noche Funky xd. It was fun to make it in one day. Although, after everything I learned to make the game, I've never discover how to use the keyboard keys.
+
+Alejandro, thank you for taking the time to install Python and Sublime Text, and playing my last game. I don't know if you still have it, but it doesn't matter. The reason why these files are so heavy is because it comes with Python and Pygame included. (It would have been fun to have asked you to compose some sound or music).
+
+Alonso, thank you for downloading my game, and for being the first one I sent the game (After Vicente, of course). I don't think this has a virus, unlike God Of War xd (I hope).
+
+Nicolas, thank you so much for playing my game for so long. It truly made me so happy that you liked my game and almost completed it. You gave me motivation for the "1.1.0" update.
+
+Thanks everyone else from discord too.
+
+And thank you okxd for the motivation. The "1.2.0" update (English translation) was mainly thanks to you. And also because of you, I'll finally be able to upload this to GitHub. I don't know if you will ever read this message, but I really appreciate it, plus I finally got to play a FNAF game xd.
+
+And with this, I gave for finished the free course of Python, which technically I finished a long time ago but I didn't want to accept it until I finished this game.
+
+Thanks for reading.
