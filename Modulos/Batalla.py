@@ -593,7 +593,7 @@ class Batalla():
 			if self.Idioma == "español":
 				self.Texto.set(self.Enemigo_Nombre + " se prepara para ejecutar\nmultiples disparos.")
 			elif self.Idioma == "english":
-				self.Texto.set(self.Enemigo_Nombre + " prepares to fire multiple\nbullets quickly")
+				self.Texto.set(self.Enemigo_Nombre + " prepares to fire multiple\nbullets quickly.")
 			self.Imagen_Su_Lado.config(image = self.Ataque_7)
 			self.Imagen_Mi_Lado.place(x = Redondear(40, self.DR), y = Redondear(3, self.DR))
 			self.Imagen_Su_Lado.place(relx = 0.9, y = Redondear(3, self.DR))
@@ -615,7 +615,7 @@ class Batalla():
 			if self.Idioma == "español":
 				self.Texto.set(self.Enemigo_Nombre + " se prepara para ejecutar\nmultiples disparos.")
 			elif self.Idioma == "english":
-				self.Texto.set(self.Enemigo_Nombre + " prepares to fire multiple\nbullets quickly")
+				self.Texto.set(self.Enemigo_Nombre + " prepares to fire multiple\nbullets quickly.")
 			self.Imagen_Su_Lado.config(image = self.Ataque_9_Enemigo)
 			self.Imagen_Su_Lado.place(relx = 0.9, y = Redondear(3, self.DR))
 		elif numero == 8:
